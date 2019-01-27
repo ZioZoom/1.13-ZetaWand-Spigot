@@ -1,0 +1,9 @@
+name: ZetaWand
+main: network.multicore.zoom.Main
+version: 1.0
+api-version: 1.13
+
+commands:
+    zetawand:
+        description:
+        usage: /zetawand
